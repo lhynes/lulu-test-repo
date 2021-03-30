@@ -1,4 +1,4 @@
-# STILE - E-Commerce Web App.
+# Explore More Adventure Agency - E-Commerce Web App.
 
 ### Code Institute - Final Milestone Project (4) - Full Stack Frameworks With Django.
 
